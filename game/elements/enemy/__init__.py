@@ -1,0 +1,3 @@
+import enemy
+import ClassicEnemy
+import InteligentClassicEnemy

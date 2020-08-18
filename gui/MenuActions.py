@@ -1,0 +1,5 @@
+
+NOSET     = 0
+OPENMENU  = 1
+STARTGAME = 2
+CLOSEMENU = 3
